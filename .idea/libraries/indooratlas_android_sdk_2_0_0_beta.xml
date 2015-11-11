@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="indooratlas-android-sdk-2.0.0-beta">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.indooratlas.android/indooratlas-android-sdk/2.0.0-beta/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.indooratlas.android/indooratlas-android-sdk/2.0.0-beta/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
